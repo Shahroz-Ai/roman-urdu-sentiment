@@ -2,7 +2,7 @@
 
 > Classifies Roman Urdu text (Urdu written in English letters) as **Positive**, **Neutral**, or **Negative**. 😊😐😠
 
-🔗 **Live demo:** [add your link here](https://roman-urdu-sentiment-shahroz-ai.streamlit.app/)
+🔗 **Live demo:** [Try it here](https://roman-urdu-sentiment-shahroz-ai.streamlit.app/)
 ## 🎯 What is this?
 
 Roman Urdu has no standard spelling ("acha", "achha", "achaa" are all common), and
